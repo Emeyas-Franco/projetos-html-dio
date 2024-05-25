@@ -48,6 +48,10 @@ body {
     width: 100px;
     text-align: center;
 }
+fieldset{
+    border-radius: 10px;
+    font-size: 1.3em;
+}
 
 .footer {
     background-color: #d6b2a677;
